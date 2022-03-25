@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @pranavshridhar0
+- 👋 Hi, I’m Pranav Shridhar. (@pr-shridhar)
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
