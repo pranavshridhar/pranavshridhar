@@ -11,10 +11,12 @@ I’m a **systems-level thinker** who prides myself on delivering **high-quality
 
 ---
 
+
+
 ## 🚀 Skills
 
 **Programming Languages:** C++, Python, Java, JavaScript  
-**Engineering Side**
+**Technical Skills:** Quality Assurance, DevOps, Cloud Computing, AI/ML
 
 ---
 
