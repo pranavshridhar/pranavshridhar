@@ -27,8 +27,6 @@ I’m a **systems-level thinker** who prides myself on delivering **high-quality
 - Exploring **cutting-edge AI research**
 - Upskilling in **Cloud Computing**
 
----
-
 
 <!---
 pranavshridhar0/pranavshridhar0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
